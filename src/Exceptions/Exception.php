@@ -1,6 +1,6 @@
 <?php
 
-namespace Lemonlyue\Weather\Exception;
+namespace Lemonlyue\Weather\Exceptions;
 
 class Exception extends \Exception
 {

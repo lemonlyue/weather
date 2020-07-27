@@ -4,8 +4,8 @@ namespace Lemonlyue\Weather;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\GuzzleException;
-use Lemonlyue\Weather\Exception\HttpException;
-use Lemonlyue\Weather\Exception\InvalidArgumentException;
+use Lemonlyue\Weather\Exceptions\HttpException;
+use Lemonlyue\Weather\Exceptions\InvalidArgumentException;
 
 class Weather
 {

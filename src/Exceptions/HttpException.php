@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Lemonlyue\Weather\Exception;
+namespace Lemonlyue\Weather\Exceptions;
 
 
 class HttpException extends Exception
