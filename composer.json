@@ -1,0 +1,19 @@
+{
+    "name": "lemonlyue/weather",
+    "description": "A weather SDK",
+    "license": "MIT",
+    "authors": [
+        {
+    "name":"lemon_lyue",
+    "email": "lemon_lyue@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Lemonlyue\\Weather\\": "./src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
